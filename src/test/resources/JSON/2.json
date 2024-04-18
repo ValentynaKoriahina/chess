@@ -1,0 +1,82 @@
+[
+    {
+        "topic": "Стратегії і тактики для створення та використання двойного шаху.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Двойной шах",
+        "tags": [
+            "#подвійний_шах",
+            "#стратегія"
+        ],
+        "solutionStrategy": "Подвійний шах",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.12\"]\n[Round \"-\"]\n[White \"Учень11\"]\n[Black \"Учень12\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 5,
+        "attempts": []
+    },
+    {
+        "topic": "Використання тактики перекриття для захисту важливих фігур.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Защита короля",
+        "tags": [
+            "#перекриття",
+            "#захист"
+        ],
+        "solutionStrategy": "Перекриття",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.13\"]\n[Round \"-\"]\n[White \"Учень13\"]\n[Black \"Учень14\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 g6 3. Nc3 Bg7",
+        "targetSkills": "Захист і контратака, Вибір стратегії",
+        "rate": 4,
+        "attempts": []
+    },
+    {
+        "topic": "Тактика відволікання як спосіб відвести захисника від ключової позиції.",
+        "difficultyRange": 4,
+        "studentLevel": 4,
+        "mode": "classic",
+        "type": "Объявление пата",
+        "tags": [
+            "#відволікання",
+            "#тактика"
+        ],
+        "solutionStrategy": "Відволікання",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.14\"]\n[Round \"-\"]\n[White \"Учень15\"]\n[Black \"Учень16\"]\n[Result \"*\"]\n\n1. e4 c6 2. d4 d5 3. e5 Bf5",
+        "targetSkills": "Планування нападу, Аналіз позиції",
+        "rate": 3,
+        "attempts": []
+    },
+    {
+        "topic": "Розвиток навичок взаємодії між фігурами для ефективного нападу та оборони.",
+        "difficultyRange": 4,
+        "studentLevel": 4,
+        "mode": "classic",
+        "type": "Взаємодія",
+        "tags": [
+            "#взаємодія",
+            "#напад_і_оборона"
+        ],
+        "solutionStrategy": "Взаємодія",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.15\"]\n[Round \"-\"]\n[White \"Учень17\"]\n[Black \"Учень18\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7",
+        "targetSkills": "Тактична обізнаність, Захист і контратака",
+        "rate": 3,
+        "attempts": []
+    },
+    {
+        "topic": "Техніка 'рентген' для виявлення та атакування фігур, що знаходяться на одній лінії.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Рентген",
+        "tags": [
+            "#рентген",
+            "#атака"
+        ],
+        "solutionStrategy": "Рентген",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.16\"]\n[Round \"-\"]\n[White \"Учень19\"]\n[Black \"Учень20\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6",
+        "targetSkills": "Планування нападу, Тактична обізнаність",
+        "rate": 5,
+        "attempts": []
+    }
+]

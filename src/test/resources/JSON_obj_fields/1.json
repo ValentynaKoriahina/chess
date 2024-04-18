@@ -1,0 +1,31 @@
+[
+    {
+        "topic": "Тактики для взяття не захищених фігур противника.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Захват материала",
+        "tags": [
+            "#взяття",
+            "#не_захищені_фігури"
+        ],
+        "solutionStrategy": "Взяття",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.08\"]\n[Round \"-\"]\n[White \"Учень1\"]\n[Black \"Учень2\"]\n[Result \"*\"]\n\n1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 3,
+                "timeSpent": "00:10:00",
+                "attemptsCount": 1,
+                "solved": true
+            },
+            {
+                "studentId": 4,
+                "timeSpent": "00:25:00",
+                "attemptsCount": 3,
+                "solved": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "topic": "Тактики для взяття не захищених фігур противника.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Захват материала",
+        "tags": [
+            "#взяття",
+            "#не_захищені_фігури"
+        ],
+        "solutionStrategy": "Взяття",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.08\"]\n[Round \"-\"]\n[White \"Учень1\"]\n[Black \"Учень2\"]\n[Result \"*\"]\n\n1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 3,
+                "timeSpent": "00:10:00",
+                "attemptsCount": 1,
+                "solved": true
+            },
+            {
+                "studentId": 4,
+                "timeSpent": "00:25:00",
+                "attemptsCount": 3,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Стратегії уникнення шаху та мату.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Защита короля",
+        "tags": [
+            "#шах",
+            "#мат"
+        ],
+        "solutionStrategy": "Втеча",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.09\"]\n[Round \"-\"]\n[White \"Учень3\"]\n[Black \"Учень4\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6",
+        "targetSkills": "Захист і контратака, Аналіз позиції",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 5,
+                "timeSpent": "00:15:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 6,
+                "timeSpent": "00:22:00",
+                "attemptsCount": 4,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Використання принципу обміну для досягнення переваги в грі.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Обмен фигур",
+        "tags": [
+            "#обмін",
+            "#перевага"
+        ],
+        "solutionStrategy": "Обмін",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.10\"]\n[Round \"-\"]\n[White \"Учень5\"]\n[Black \"Учень6\"]\n[Result \"*\"]\n\n1. d4 d5 2. c4 e6 3. Nc3 c6",
+        "targetSkills": "Вибір стратегії, Тактична обізнаність",
+        "rate": 5,
+        "attempts": [
+            {
+                "studentId": 7,
+                "timeSpent": "00:18:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 8,
+                "timeSpent": "00:30:00",
+                "attemptsCount": 1,
+                "solved": true
+            }
+        ]
+    },
+    {
+        "topic": "Основи ведення атаки на короля противника з використанням відкритих ліній.",
+        "difficultyRange": 4,
+        "studentLevel": 4,
+        "mode": "classic",
+        "type": "Атака на короля",
+        "tags": [
+            "#атака_на_короля",
+            "#відкриті_лінії"
+        ],
+        "solutionStrategy": "Відкрий напад",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.11\"]\n[Round \"-\"]\n[White \"Учень7\"]\n[Black \"Учень8\"]\n[Result \"*\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6",
+        "targetSkills": "Планування нападу, Аналіз позиції",
+        "rate": 3,
+        "attempts": [
+            {
+                "studentId": 9,
+                "timeSpent": "00:12:30",
+                "attemptsCount": 3,
+                "solved": false
+            },
+            {
+                "studentId": 10,
+                "timeSpent": "00:20:00",
+                "attemptsCount": 2,
+                "solved": true
+            }
+        ]
+    }
+]

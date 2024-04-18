@@ -1,0 +1,176 @@
+[
+    {
+        "topic": "Залучення атакуючого: маніпулювання позиціями для заведення суперника в пастку.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Подвести атакующего",
+        "tags": [
+            "#взаємодія",
+            "#пастка"
+        ],
+        "solutionStrategy": "Підвести атакующего",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.21\"]\n[Round \"-\"]\n[White \"Учень29\"]\n[Black \"Учень30\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O",
+        "targetSkills": "Тактична обізнаність, Аналіз позиції",
+        "rate": 5,
+        "attempts": [
+            {
+                "studentId": 1,
+                "timeSpent": "00:30:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 2,
+                "timeSpent": "00:45:00",
+                "attemptsCount": 4,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Використання перекриття для захисту важливих фігур та пунктів.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Защита короля",
+        "tags": [
+            "#перекриття",
+            "#захист"
+        ],
+        "solutionStrategy": "Перекриття",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.22\"]\n[Round \"-\"]\n[White \"Учень31\"]\n[Black \"Учень32\"]\n[Result \"*\"]\n\n1. d4 d5 2. c4 e6 3. Nc3 Be7 4. e4 dxe4 5. Nxe4 Nf6",
+        "targetSkills": "Захист і контратака, Аналіз позиції",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 3,
+                "timeSpent": "00:20:00",
+                "attemptsCount": 1,
+                "solved": true
+            },
+            {
+                "studentId": 4,
+                "timeSpent": "00:35:00",
+                "attemptsCount": 3,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Вивчення основ обміну фігур для досягнення переваги у грі.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Обмен фигур",
+        "tags": [
+            "#обмін",
+            "#перевага_в_грі"
+        ],
+        "solutionStrategy": "Обмін",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.23\"]\n[Round \"-\"]\n[White \"Учень33\"]\n[Black \"Учень34\"]\n[Result \"*\"]\n\n1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 3,
+        "attempts": [
+            {
+                "studentId": 5,
+                "timeSpent": "00:25:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 6,
+                "timeSpent": "01:00:00",
+                "attemptsCount": 5,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Розробка тактики відкритої атаки для домінування на шаховій дошці.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Відкритий напад",
+        "tags": [
+            "#відкритий_напад",
+            "#домінування"
+        ],
+        "solutionStrategy": "Відкритий напад",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.24\"]\n[Round \"-\"]\n[White \"Учень35\"]\n[Black \"Учень36\"]\n[Result \"*\"]\n\n1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2",
+        "targetSkills": "Планування нападу, Аналіз позиції",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 7,
+                "timeSpent": "00:15:00",
+                "attemptsCount": 1,
+                "solved": true
+            },
+            {
+                "studentId": 8,
+                "timeSpent": "00:50:00",
+                "attemptsCount": 4,
+                "solved": true
+            }
+        ]
+    },
+    {
+        "topic": "Розвиток вміння визначати та використовувати моменти для двойного шаху.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Подвійний шах",
+        "tags": [
+            "#подвійний_шах",
+            "#шах"
+        ],
+        "solutionStrategy": "Подвійний шах",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.25\"]\n[Round \"-\"]\n[White \"Учень37\"]\n[Black \"Учень38\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2 h6 9. Nh3",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 5,
+        "attempts": [
+            {
+                "studentId": 9,
+                "timeSpent": "00:40:00",
+                "attemptsCount": 3,
+                "solved": true
+            },
+            {
+                "studentId": 10,
+                "timeSpent": "01:05:00",
+                "attemptsCount": 6,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Техніка 'рентген' для аналізу та атаки через ряди та діагоналі.",
+        "difficultyRange": 4,
+        "studentLevel": 4,
+        "mode": "classic",
+        "type": "Рентген",
+        "tags": [
+            "#рентген",
+            "#аналіз"
+        ],
+        "solutionStrategy": "Рентген",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.04.26\"]\n[Round \"-\"]\n[White \"Учень39\"]\n[Black \"Учень40\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 g5 8. Bg3 Ne4 9. e3 Nxg3 10. hxg3",
+        "targetSkills": "Аналіз позиції, Тактична обізнаність",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 11,
+                "timeSpent": "00:30:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 12,
+                "timeSpent": "00:55:00",
+                "attemptsCount": 5,
+                "solved": false
+            }
+        ]
+    }
+]

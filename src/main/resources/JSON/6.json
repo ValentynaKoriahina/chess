@@ -1,0 +1,147 @@
+[
+    {
+        "topic": "Ефективне використання рентгенівських ударів для атаки через інші фігури.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Рентген",
+        "tags": [
+            "#рентген",
+            "#атака_через_фігури"
+        ],
+        "solutionStrategy": "Рентген",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.04\"]\n[Round \"-\"]\n[White \"Учень55\"]\n[Black \"Учень56\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5",
+        "targetSkills": "Планування нападу, Вибір стратегії",
+        "rate": 5,
+        "attempts": [
+            {
+                "studentId": 21,
+                "timeSpent": "00:25:00",
+                "attemptsCount": 3,
+                "solved": true
+            },
+            {
+                "studentId": 22,
+                "timeSpent": "00:40:00",
+                "attemptsCount": 5,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Тактики прогону фігур для зайняття ключових позицій на дошці.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Прогін",
+        "tags": [
+            "#прогін",
+            "#зайняття_позицій"
+        ],
+        "solutionStrategy": "Прогнати",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.05\"]\n[Round \"-\"]\n[White \"Учень57\"]\n[Black \"Учень58\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 f5",
+        "targetSkills": "Тактична обізнаність, Планування нападу",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 23,
+                "timeSpent": "00:15:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 24,
+                "timeSpent": "00:30:00",
+                "attemptsCount": 4,
+                "solved": true
+            }
+        ]
+    },
+    {
+        "topic": "Використання перекриття для захисту короля та інших важливих фігур.",
+        "difficultyRange": 3,
+        "studentLevel": 3,
+        "mode": "classic",
+        "type": "Защита короля",
+        "tags": [
+            "#перекриття",
+            "#захист_короля"
+        ],
+        "solutionStrategy": "Перекриття",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.06\"]\n[Round \"-\"]\n[White \"Учень59\"]\n[Black \"Учень60\"]\n[Result \"*\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O",
+        "targetSkills": "Захист і контратака, Аналіз позиції",
+        "rate": 4,
+        "attempts": [
+            {
+                "studentId": 25,
+                "timeSpent": "00:20:00",
+                "attemptsCount": 1,
+                "solved": true
+            },
+            {
+                "studentId": 26,
+                "timeSpent": "00:45:00",
+                "attemptsCount": 2,
+                "solved": false
+            }
+        ]
+    },
+    {
+        "topic": "Стратегії обміну фігур для спрощення позиції та підвищення шансів на перемогу.",
+        "difficultyRange": 2,
+        "studentLevel": 2,
+        "mode": "classic",
+        "type": "Обмін",
+        "tags": [
+            "#обмін",
+            "#спрощення_позиції"
+        ],
+        "solutionStrategy": "Обмін",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.07\"]\n[Round \"-\"]\n[White \"Учень61\"]\n[Black \"Учень62\"]\n[Result \"*\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c5 12. d5",
+        "targetSkills": "Тактична обізнаність, Вибір стратегії",
+        "rate": 3,
+        "attempts": [
+            {
+                "studentId": 27,
+                "timeSpent": "00:10:00",
+                "attemptsCount": 1,
+                "solved": true
+            },
+            {
+                "studentId": 28,
+                "timeSpent": "00:25:00",
+                "attemptsCount": 3,
+                "solved": true
+            }
+        ]
+    },
+    {
+        "topic": "Побудова взаємодії між фігурами для створення непробивних позицій.",
+        "difficultyRange": 5,
+        "studentLevel": 5,
+        "mode": "classic",
+        "type": "Взаємодія",
+        "tags": [
+            "#взаємодія",
+            "#непробивні_позиції"
+        ],
+        "solutionStrategy": "Взаємодія",
+        "PGN": "[Event \"Тренування\"]\n[Site \"Клуб\"]\n[Date \"2024.05.08\"]\n[Round \"-\"]\n[White \"Учень63\"]\n[Black \"Учень64\"]\n[Result \"*\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O d5 9. Ne5 O-O 10. Bc3 Ne4 11. Bb2 f6 12. Nd3 Nd7",
+        "targetSkills": "Планування нападу, Захист і контратака",
+        "rate": 5,
+        "attempts": [
+            {
+                "studentId": 29,
+                "timeSpent": "00:30:00",
+                "attemptsCount": 2,
+                "solved": true
+            },
+            {
+                "studentId": 30,
+                "timeSpent": "01:00:00",
+                "attemptsCount": 5,
+                "solved": false
+            }
+        ]
+    }
+]
