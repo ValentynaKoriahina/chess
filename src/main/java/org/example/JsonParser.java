@@ -75,6 +75,8 @@ public class JsonParser {
         } catch (IOException e) {
             System.out.println("Error processing file: " + file.getName());
             e.printStackTrace();
+        } catch (IllegalStateException e) {
+            System.out.println("The input data does not conform to the expected format. File: " + file);
         }
     }
 }
